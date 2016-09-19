@@ -1,8 +1,3 @@
-# memory-game-epsonavy
-memory-game-epsonavy created by GitHub Classroom
-
-Author: Pei Lian Liu
-
 1. Pei Lian Liu
 2. epsonavy@yahoo.com
 3. N/A
